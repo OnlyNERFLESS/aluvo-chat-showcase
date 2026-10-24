@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b>Free 2.2.0</b> · <b>Pro add-on 2.2.0</b> · WordPress 5.3+ · PHP 7.2+ · Follows your WordPress language
+  <b>Free 2.3.0</b> · <b>Pro add-on 2.3.0</b> · WordPress 5.3+ · PHP 7.2+ · Follows your WordPress language
 </p>
 
 ---
@@ -41,6 +41,8 @@ The free plugin is complete on its own. Pro is an add-on that installs beside it
 | Unlimited forms and requests | ✓ | ✓ |
 | Checkboxes, yes or no, ratings, sliders, appointments, consent and payment links in forms | ✓ | ✓ |
 | Steps that appear only when an earlier answer matches | ✓ | ✓ |
+| Quick order: items with a price and their own payment link | ✓ | ✓ |
+| A guided builder that shows what each form still needs | ✓ | ✓ |
 | Contact buttons and bottom bar with brand icons | ✓ | ✓ |
 | Requests saved in WordPress and emailed | ✓ | ✓ |
 | Colour and gradient themes, button shapes, six border types, inside colour or gradient, phone settings | ✓ | ✓ |
@@ -116,7 +118,19 @@ Five animations come free: Spinning border, Floating, Ripple rings, Comet and He
 
 Forms, steps and a preview side by side. New forms start from a template, each form gets an icon from a gallery, and every field explains itself.
 
-Fourteen kinds of question, all free: multiple choice, checkboxes, yes or no, typed answers, form fields, star ratings, sliders for a budget or any number, appointments that offer only free days and times from your hours, a consent box with a link to your policy, a payment or link button, quantities, and product steps. Any step can be set to appear only when an earlier answer matches, so a form asks for a date only if the visitor has a deadline.
+Every template explains what it does, and a "Finish setting up" list shows exactly what is still missing (a payment link, example choices to replace, an unnamed field) and takes you to it. Each step shows what it holds at a glance, and the ones that need something are marked.
+
+<img src="media/form-setup.png" width="62%" alt="A new Quick order form: what it does, a Finish setting up list with Fix buttons, and its items with prices and payment links">
+
+**Quick order** turns the chat into a small shop: list what you sell with a price, a short description and its own payment link from Stripe, PayPal or any checkout. Visitors pick one, see it with its price and pay in a tap, and you get their details too. Any choice can also carry a small **View** link to a product's page.
+
+<p align="center">
+  <img src="media/quick-order.png" width="40%" alt="Quick order in the chat: items with prices, and the picked one with a Pay now button">
+  &nbsp;
+  <img src="media/form-view-link.png" width="40%" alt="Choices with a small View link to each product's page">
+</p>
+
+Twelve kinds of question, all free: multiple choice, checkboxes, yes or no, typed answers, form fields, star ratings, sliders for a budget or any number, appointments that offer only free days and times from your hours, a consent box with a link to your policy, quick order or a link button, and quantities. Pro adds product category and product steps for your products and WooCommerce. Any step can be set to appear only when an earlier answer matches, so a form asks for a date only if the visitor has a deadline.
 
 <p align="center">
   <img src="media/form-booking.png" width="40%" alt="An appointment step: free days across the top, free times below">

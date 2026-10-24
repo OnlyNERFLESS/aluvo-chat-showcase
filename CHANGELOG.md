@@ -1,5 +1,12 @@
 # Changelog
 
+## Free 2.3.0 and Pro 2.3.0: a guided form builder, quick orders
+
+- **The builder guides you:** each template explains itself, and "Finish setting up" lists what is missing and jumps straight to it. Steps show what they hold; the ones that need something are marked.
+- **Quick order:** items with a price, a short description and their own payment link; visitors pick one and pay in a tap.
+- **View links** on choices, for example to a product's page.
+- **Product steps** now come with Pro, where your products and WooCommerce live.
+
 ## Free 2.2.0 and Pro 2.2.0: smarter forms, live chat agents
 
 - **Seven new kinds of question, free:** checkboxes, yes or no, rating, slider, appointment, consent and a payment or link button.
