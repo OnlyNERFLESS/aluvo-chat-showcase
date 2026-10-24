@@ -1,5 +1,11 @@
 # Changelog
 
+## Free 2.1.0 and Pro 2.1.0: live chat
+
+- **Live chat (Pro).** While someone on your team is online, visitors see "Chat with us now" and talk to a person right in the chat window. Answer from Aluvo Chat → Live chat, with what the visitor told the chat shown first, sound and desktop alerts, typing indicators, working hours and an email when nobody answers in time.
+- **Free** gains the hooks that let an add-on extend the chat window and the dashboard tabs. Nothing changes for Free on its own.
+- **Visit plugin site** link on the Plugins screen.
+
 ## Free 2.0.0 and Pro 2.0.0: Aluvo Chat
 
 - **The plugin is now Aluvo Chat** (formerly Aivanta Chat), a name of its own on WordPress.org. Its address is aluvo-chat.

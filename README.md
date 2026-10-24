@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b>Free 2.0.0</b> · <b>Pro add-on 2.0.0</b> · WordPress 5.3+ · PHP 7.2+ · Follows your WordPress language
+  <b>Free 2.1.0</b> · <b>Pro add-on 2.1.0</b> · WordPress 5.3+ · PHP 7.2+ · Follows your WordPress language
 </p>
 
 ---
@@ -43,6 +43,7 @@ The free plugin is complete on its own. Pro is an add-on that installs beside it
 | Requests saved in WordPress and emailed | ✓ | ✓ |
 | Colour and gradient themes, button shapes, six border types, inside colour or gradient, phone settings | ✓ | ✓ |
 | Follows your WordPress language, including right-to-left | ✓ | ✓ |
+| Live chat: answer visitors yourself, right in the chat window | | ✓ |
 | AI answers with your own Claude or OpenAI key | | ✓ |
 | Ready answers with synonyms, typo tolerance and trigger words in other languages | | ✓ |
 | Products & categories: your own or live from WooCommerce, with price, offer, tags and a buy button | | ✓ |
@@ -117,6 +118,20 @@ Forms, steps and a preview side by side. New forms start from a template, each f
   <img src="media/form-templates.png" width="49%" alt="Templates for a new form">
   <img src="media/form-icons.png" width="49%" alt="The form icon gallery">
 </p>
+
+### Live chat (Pro)
+
+<img src="media/live-chat-inbox.png" alt="The Live chat screen: conversations on the left, the open chat with what the visitor told the chat first, and a reply box">
+
+While someone on your team is online, visitors see "Chat with us now" above the message box and talk to a person without leaving the chat. You answer from the dashboard: what the visitor already told the chat comes first, so nobody has to repeat themselves. A sound, a desktop alert and a count in the tab title tell you when someone is waiting, and both sides see when the other is typing.
+
+<p align="center">
+  <img src="media/live-chat-offer.png" width="40%" alt="The chat window with Chat with us now above the message box">
+  &nbsp;
+  <img src="media/live-chat-visitor.png" width="40%" alt="A visitor chatting with a team member, who is typing">
+</p>
+
+Set working hours, or just switch yourself online. If nobody answers in time, the visitor is offered your contact buttons and you get an email. The chat carries on as the visitor moves between pages, and conversations are covered by WordPress's Export and Erase Personal Data tools.
 
 ### Products & categories (Pro)
 
