@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <b>Free 2.1.0</b> · <b>Pro add-on 2.1.0</b> · WordPress 5.3+ · PHP 7.2+ · Follows your WordPress language
+  <b>Free 2.2.0</b> · <b>Pro add-on 2.2.0</b> · WordPress 5.3+ · PHP 7.2+ · Follows your WordPress language
 </p>
 
 ---
@@ -39,6 +39,8 @@ The free plugin is complete on its own. Pro is an add-on that installs beside it
 | | Free | Pro |
 |---|:---:|:---:|
 | Unlimited forms and requests | ✓ | ✓ |
+| Checkboxes, yes or no, ratings, sliders, appointments, consent and payment links in forms | ✓ | ✓ |
+| Steps that appear only when an earlier answer matches | ✓ | ✓ |
 | Contact buttons and bottom bar with brand icons | ✓ | ✓ |
 | Requests saved in WordPress and emailed | ✓ | ✓ |
 | Colour and gradient themes, button shapes, six border types, inside colour or gradient, phone settings | ✓ | ✓ |
@@ -114,6 +116,14 @@ Five animations come free: Spinning border, Floating, Ripple rings, Comet and He
 
 Forms, steps and a preview side by side. New forms start from a template, each form gets an icon from a gallery, and every field explains itself.
 
+Fourteen kinds of question, all free: multiple choice, checkboxes, yes or no, typed answers, form fields, star ratings, sliders for a budget or any number, appointments that offer only free days and times from your hours, a consent box with a link to your policy, a payment or link button, quantities, and product steps. Any step can be set to appear only when an earlier answer matches, so a form asks for a date only if the visitor has a deadline.
+
+<p align="center">
+  <img src="media/form-booking.png" width="40%" alt="An appointment step: free days across the top, free times below">
+  &nbsp;
+  <img src="media/form-rating.png" width="40%" alt="A rating step with five stars and words at each end">
+</p>
+
 <p align="center">
   <img src="media/form-templates.png" width="49%" alt="Templates for a new form">
   <img src="media/form-icons.png" width="49%" alt="The form icon gallery">
@@ -130,6 +140,14 @@ While someone on your team is online, visitors see "Chat with us now" above the 
   &nbsp;
   <img src="media/live-chat-visitor.png" width="40%" alt="A visitor chatting with a team member, who is typing">
 </p>
+
+Visitors give their name and email first, and are told you reply as soon as possible during your working hours.
+
+<p align="center">
+  <img src="media/live-chat-details.png" width="40%" alt="Before connecting: the visitor's name and email, and when to expect a reply">
+</p>
+
+Support staff do not need to be administrators: give them the Live chat agent role and they see the Live chat screen and nothing else, landing on it when they log in. Editors, shop managers or any other role can be allowed too, and a Live chat item in the admin bar shows how many visitors are waiting. One switch at the top of the screen turns live chat off for everyone.
 
 Set working hours, or just switch yourself online. If nobody answers in time, the visitor is offered your contact buttons and you get an email. The chat carries on as the visitor moves between pages, and conversations are covered by WordPress's Export and Erase Personal Data tools.
 

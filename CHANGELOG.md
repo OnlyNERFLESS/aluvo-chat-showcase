@@ -1,5 +1,13 @@
 # Changelog
 
+## Free 2.2.0 and Pro 2.2.0: smarter forms, live chat agents
+
+- **Seven new kinds of question, free:** checkboxes, yes or no, rating, slider, appointment, consent and a payment or link button.
+- **Conditional steps:** show a step only when an earlier answer matches.
+- **New templates:** Custom form, Pay link, Step by step, Poll, Custom fields and We will contact you.
+- **Optional name and email** for polls and feedback, and contact channels are optional everywhere.
+- **Live chat (Pro):** a redesigned screen with one on/off switch, name and email before a chat starts, a reply-time promise with your working hours, a Live chat agent role for support staff, and an admin bar item.
+
 ## Free 2.1.0 and Pro 2.1.0: live chat
 
 - **Live chat (Pro).** While someone on your team is online, visitors see "Chat with us now" and talk to a person right in the chat window. Answer from Aluvo Chat → Live chat, with what the visitor told the chat shown first, sound and desktop alerts, typing indicators, working hours and an email when nobody answers in time.
